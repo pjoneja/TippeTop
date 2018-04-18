@@ -1,6 +1,8 @@
 ## Animating a Tippe Top using Numerical Methods
 
-This project is a study of the dynamics of a special kind of spinning top known as a tippe top. A tippe top has a particular mass distribution such that it initially spins on its spherical end, then while spinning, the tippe top inverts itself and continues spinning on its extended stem. See this YouTube video for an example: https://youtu.be/AyAgeUneFds
+This project is a study of the dynamics of a special kind of spinning top known as a tippe top. A tippe top has a particular mass distribution such that it initially spins on its spherical end, then while spinning, the tippe top inverts itself and continues spinning on its extended stem. See this YouTube video for an example: 
+
+[![youtube](http://img.youtube.com/vi/AyAgeUneFds/0.jpg)](https://youtu.be/AyAgeUneFds)
 
 My full paper is available: Joneja-TippeTop.docx or .pdf
 The slides from my final presentation on May 8, 2017: Joneja-TippeTop-final.pptx
